@@ -5,7 +5,7 @@
 
 Este é um projeto de detecção de objetos usando a arquitetura YOLO (You Only Look Once) e a biblioteca Darknet. O objetivo deste projeto é demonstrar como implementar a detecção de objetos em imagens e vídeos usando redes neurais convolucionais pré-treinadas.
 
-Autor: [Juliano Aragão]
+Autor: Juliano Aragão
 
 ## Funcionalidades
 
