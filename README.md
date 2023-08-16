@@ -30,6 +30,8 @@ Autor: Juliano Aragão
 3. Execute o arquivo `detec_darknet.py` usando o Python.
 4. Siga as instruções no terminal para selecionar a opção de processar imagem ou vídeo.
 5. A detecção de objetos será realizada e os resultados serão exibidos no terminal.
+6. Faça o clone da Darknet, do cfg e dos pessos no git clone https://github.com/pjreddie/darknet.
+7. Agora é só testar e aprofeitar,  
 
 ## Licença
 
